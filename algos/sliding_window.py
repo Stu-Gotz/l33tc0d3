@@ -116,6 +116,3 @@ class LongestSubstring:
 
 s = "abcaabcdabcd"
 print(LongestSubstring().findLengthCommonSubstring(s))
-
-print(int(5/2))
-
